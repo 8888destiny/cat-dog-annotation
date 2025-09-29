@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 数据文件（不上传图片）
+data/raw_images/*.jpg
+data/raw_images/*.png
+data/raw_images/*.jpeg
+data/cats/
+data/dogs/
+data/labels.csv
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+
+# 系统文件
+.DS_Store
+Thumbs.db
